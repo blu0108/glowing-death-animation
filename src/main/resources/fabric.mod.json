@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "glowdeath",
+	"version": "${version}",
+	"name": "gloweeedeath",
+	"authors": [
+		"sqwuare",
+		"flaapu"
+	],
+	"icon": "assets/glowdeath/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"uk.sqwuare.glowdeath"
+		]
+	},
+	"mixins": [
+		"glowdeath.mixins.json"
+	]
+}
